@@ -1,5 +1,4 @@
 import React from 'react';
-import './Header.css';
 import LogoWhite from './assets/logo-white.png';
 
 export default function HeaderBar(props) {
