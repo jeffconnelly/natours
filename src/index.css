@@ -116,7 +116,8 @@ body {
 
 .row {
   max-width: 114rem;
-  margin: 0 auto; }
+  margin: 0 auto;
+  background-color: #eee; }
   .row:not(:last-child) {
     margin-bottom: 8rem; }
   .row::after {
